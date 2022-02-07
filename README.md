@@ -1,1 +1,1 @@
-# Cotacao-dolar-euro
+# Cotação Dólar e Euro em real.
